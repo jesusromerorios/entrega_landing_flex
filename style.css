@@ -207,7 +207,7 @@ header.h-mobile {
 
 .min-large {
     margin: 0 auto;
-    width: 1400px;
+    max-width: 1400px;
 }
 
 /*ESTILOS WIDGETS GLOBALES*/
